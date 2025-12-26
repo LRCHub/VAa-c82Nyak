@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Mr. Showtime",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-26T05:27:39.102424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Showtime",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_Mr._Showtime_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Showtime (feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_Mr._Showtime_(feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr. Showtime (feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)",
+      "artist": "Hitoshizuku and Yama",
+      "has_synced": true,
+      "path": "select/03_Mr._Showtime_(feat._初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)_Hitoshizuku_and_Yama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mr. Showtime",
+      "artist": "Hitoshizuku,Yama",
+      "has_synced": false,
+      "path": "select/04_Mr._Showtime_Hitoshizuku,Yama.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mr. Showtime",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ",
+      "has_synced": true,
+      "path": "select/05_Mr._Showtime_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mr. Showtime",
+      "artist": "ワンダーランズ x ショウタイム",
+      "has_synced": true,
+      "path": "select/06_Mr._Showtime_ワンダーランズ_x_ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mr. Showtime",
+      "artist": "Hitoshizuku,Yama\u0000HATSUNE MIKU\u0000KAGAMINE RIN\u0000Kagamine Len\u0000Megurine Luka\u0000Meiko\u0000Kaito",
+      "has_synced": true,
+      "path": "select/07_Mr._Showtime_Hitoshizuku,Yama\u0000HATSUNE_MIKU\u0000KAGAMINE_RIN\u0000Kagamine_Len\u0000Megurine_Luka\u0000Meiko\u0000Kait.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr. Showtime (feat. 天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_Mr._Showtime_(feat._天馬司&鳳えむ&草薙寧々&神代類&巡音ルカ)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
